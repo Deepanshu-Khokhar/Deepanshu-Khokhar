@@ -14,21 +14,22 @@
 <br/>
 
 ### 🛠️ About Me
-I’m a **Data Science student** at **IIT Madras**  who spends way too much time in the terminal. I love the "build, break, repeat" cycle of software development and system administration. [cite_start]Whether it's automating a workflow with **Python** [cite: 28, 31] [cite_start]or setting up a custom **Linux environment**[cite: 24], I’m always chasing that perfect setup.
+I’m a **Data Science student** at **IIT Madras** who spends a lot of time in the terminal. I love the "build, break, repeat" cycle of development. Whether it's automating a workflow with **Python** or customizing a **Linux environment**, I’m always chasing a more efficient setup.
 
 ---
 
 ### 🚀 What I'm Into
-* [cite_start]**Systems:** Crafting the ultimate desktop experience on **Fedora** and managing **Linux servers**.
-* [cite_start]**Development:** Building clean, responsive apps with **Flutter** [cite: 16, 18] [cite_start]and robust backends with **Python**.
-* [cite_start]**Automation:** Using **Docker** to containerize everything and simplify deployments.
-* [cite_start]**Data:** Turning messy datasets into clear insights using **Pandas and NumPy**.
+* **Systems:** Crafting the ultimate desktop experience on **Fedora** and managing **Linux servers**.
+* **Development:** Building clean, responsive apps with **Flutter** and robust backends with **Python**.
+* **Automation:** Using **Docker** to containerize environments and simplify deployments.
+* **Data:** Turning messy datasets into clear insights using **Pandas and NumPy**.
 
 <br/>
 
 ### 📂 Highlight Reel
-* [cite_start]**Hardware Repurposing:** I turn old tech into functional, pre-configured home units for local users[cite: 11, 13, 15].
-* [cite_start]**Data Projects:** Analyzed national infrastructure to find gaps in digital education access[cite: 34, 35].
+* **Hardware Projects:** Repurposing tech into functional, pre-configured home units for local users.
+* **App Development:** Built student-management systems and full-stack hospital platforms.
+* **Data Science:** Analyzed national infrastructure to identify gaps in digital education access.
 
 ---
 
