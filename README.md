@@ -1,46 +1,37 @@
-<div align="center">
-  <h1>Hey, I'm Deepanshu 🐧</h1>
-  <p align="center">
-    <strong>Student @ IIT Madras | Linux Enthusiast | Home Lab Architect</strong>
-  </p>
+## Hi there 👋 I am Deepanshu
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Fedora-blue?style=flat-square&logo=fedora&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Home_Server-FFA000?style=flat-square&logo=home-assistant&logoColor=white" />
-  </p>
-</div>
-
-<br/>
-
-### 🛠️ About Me
-I’m a **Data Science student** at **IIT Madras** who lives in the terminal. I’m driven by the "build, break, repeat" philosophy. Whether I'm automating workflows with **Python** or optimizing a **Linux environment**, I’m always looking for ways to make systems faster, smarter, and more resilient.
+🐧 Linux daily driver — Fedora is home  
+📚 Data Science student figuring things out one project at a time  
+🔧 I build things, break things, and learn from both  
+🌱 Currently exploring DevOps — containers, servers & cloud  
 
 ---
 
-### 🚀 Technical Interests
-* **Systems:** Crafting a perfect desktop experience on **Fedora** and managing specialized **Linux servers**.
-* **Home Labs:** Architecting personal server ecosystems to host private cloud services and secure media environments.
-* **Development:** Building responsive applications with **Flutter** and designing robust backends with **Python**.
-* **Automation:** Leveraging **Docker** to containerize projects and keep my infrastructure portable and clean.
+### 🛠️ What I work with
 
-<br/>
-
-### 📂 Highlight Reel
-* **Home Server Deployment:** Repurposing hardware into high-performance, pre-configured units for private cloud storage.
-* **Full-Stack Projects:** Developed comprehensive student-management and hospital platforms from the ground up.
-* **Data Science:** Analyzed large-scale infrastructure data to identify and bridge gaps in digital education access.
+![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=flat&logo=fedora)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### 💬 Let's Connect
-I'm always up for a chat about open-source, tech trends, or why Linux is the ultimate daily driver.
+### 📌 What I'm up to
 
-[**LinkedIn**](https://linkedin.com/in/deepanshu-khokhar) • [**Gmail**](mailto:deepanshukhokhar@gmail.com) • [**GitHub**](https://github.com/Deepanshu-Khokhar)
+- 🏗️ Working on small projects to build real skills  
+- 🐳 Learning how servers and containers work  
+- 💻 Daily driving Fedora and breaking my system so you don't have to  
+- 🎮 Retro gaming on the side because balance matters  
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
-</div>
+### 📂 Open to
+
+- Collaborations on fun or useful open source projects  
+- Internship opportunities in DevOps or anything Linux-adjacent  
+
+---
+
+> *"Still learning. Always building."*
