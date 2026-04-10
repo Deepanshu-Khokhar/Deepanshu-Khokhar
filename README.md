@@ -28,7 +28,6 @@ I’m a **Data Science student** at **IIT Madras** who spends a lot of time in t
 
 ### 📂 Highlight Reel
 * **Hardware Projects:** Repurposing tech into functional, pre-configured home units for local users.
-* **App Development:** Built student-management systems and full-stack hospital platforms.
 * **Data Science:** Analyzed national infrastructure to identify gaps in digital education access.
 
 ---
