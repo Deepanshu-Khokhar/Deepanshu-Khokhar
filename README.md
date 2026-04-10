@@ -1,58 +1,46 @@
 <div align="center">
-  <h1>Deepanshu Khokhar 🐧</h1>
-  <p><strong>DevOps Engineer | Infrastructure Specialist | IIT Madras (Data Science)</strong></p>
-  
-  <img src="https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora" />
-  <img src="https://img.shields.io/badge/Infra-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Network-Secure_Access-orange?style=for-the-badge&logo=wireguard" />
+  <h1>Hey, I'm Deepanshu 🐧</h1>
+  <p align="center">
+    <strong>Student @ IIT Madras | Linux Enthusiast | DevOps Explorer</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Fedora-blue?style=flat-square&logo=fedora&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  </p>
 </div>
 
 <br/>
 
-### 🛠️ The Philosophy
-> "Building resilient, self-hosted systems from the ground up."
-
-I am a **Linux enthusiast** and **DevOps practitioner** focused on building secure, scalable, and highly available infrastructure. My work bridges the gap between hardware deployment and automated software delivery.
+### 🛠️ About Me
+[cite_start]I’m a **Data Science student** at **IIT Madras**  who spends way too much time in the terminal. I love the "build, break, repeat" cycle of software development and system administration. [cite_start]Whether it's automating a workflow with **Python** [cite: 28, 31] [cite_start]or setting up a custom **Linux environment**[cite: 24], I’m always chasing that perfect setup.
 
 ---
 
-### 🚀 Technical Expertise
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Infrastructure & Cloud</h4>
-      <ul>
-        <li><strong>Systems:</strong> Fedora, Ubuntu Server, Zorin OS [cite: 42]</li>
-        <li><strong>Virtualization:</strong> Docker, Container Orchestration [cite: 42]</li>
-        <li><strong>Networking:</strong> Secure Tunneling, VPN Infrastructure [cite: 25]</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Software & Data</h4>
-      <ul>
-        <li><strong>Languages:</strong> Python, Bash, Dart, SQL [cite: 41]</li>
-        <li><strong>Frameworks:</strong> FastAPI, Flask, Flutter [cite: 42]</li>
-        <li><strong>Analytics:</strong> Pandas, NumPy, Data Visualization [cite: 42]</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 What I'm Into
+* [cite_start]**Systems:** Crafting the ultimate desktop experience on **Fedora** and managing **Linux servers**[cite: 24, 42].
+* [cite_start]**Development:** Building clean, responsive apps with **Flutter** [cite: 16, 18] [cite_start]and robust backends with **Python**[cite: 28, 29].
+* [cite_start]**Automation:** Using **Docker** to containerize everything and simplify deployments[cite: 24, 42].
+* [cite_start]**Data:** Turning messy datasets into clear insights using **Pandas and NumPy**[cite: 31, 35].
 
 <br/>
 
-### 📦 Key Projects
-
-* [cite_start]**Self-Hosted Infrastructure:** Architected a private cloud ecosystem with remote sync and secure external connectivity[cite: 24, 25].
-* [cite_start]**Enterprise NAS Deployment:** Managed the full-cycle deployment of pre-configured storage units for personal and small-business use[cite: 13, 15].
-* [cite_start]**Full-Stack Hospital System:** Developed a patient management platform using a Python-based REST API and SQLAlchemy[cite: 28, 29].
-* [cite_start]**EdTech Infrastructure Analysis:** Performed deep data analysis on nationwide infrastructure to identify and address digital adoption gaps[cite: 31, 35].
+### 📂 Highlight Reel
+* [cite_start]**Hardware Repurposing:** I turn old tech into functional, pre-configured home units for local users[cite: 11, 13, 15].
+* [cite_start]**App Development:** Built student-management systems and full-stack hospital platforms from scratch[cite: 18, 28].
+* [cite_start]**Data Projects:** Analyzed national infrastructure to find gaps in digital education access[cite: 34, 35].
 
 ---
 
-### 📈 Metrics & Connections
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Khokhar&show_icons=true&theme=tokyonight" />
-</p>
+### 💬 Let's Connect
+I'm always down to talk about open-source, tech trends, or why Linux is the superior daily driver.
 
-[cite_start][**LinkedIn**](https://linkedin.com/in/deepanshu-khokhar) [cite: 2] | [cite_start][**GitHub**](https://github.com/Deepanshu-Khokhar) [cite: 2] | [cite_start][**Email**](mailto:deepanshukhokhar@gmail.com) [cite: 2]
+[**LinkedIn**](https://linkedin.com/in/deepanshu-khokhar) • [**Gmail**](mailto:deepanshukhokhar@gmail.com) • [**GitHub**](https://github.com/Deepanshu-Khokhar)
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+</div>
